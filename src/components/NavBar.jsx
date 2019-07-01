@@ -9,7 +9,7 @@ function NavBar() {
     color: "gray",
   }
   var navPostion = {
-    marginTop: "20px"
+    marginTop: "20px",
   }
   return (
     <div style={navPostion}>

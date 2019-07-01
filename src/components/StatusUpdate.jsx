@@ -5,6 +5,7 @@ import Tweet from './Tweet';
 function StatusUpdate(){
   var bodyStyle = {
     border: "1px solid lightgray",
+    width: "350px"
   }
   return (
     <div style={bodyStyle}>

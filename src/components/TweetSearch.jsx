@@ -1,5 +1,4 @@
 import React from 'react';
-import { relative } from 'path';
 
 function TweetSearch() {
   var bodyStyle = {

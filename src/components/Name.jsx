@@ -5,7 +5,7 @@ function Name() {
     height: "120px",
     width: "240px",
     backgroundColor: "#1DA1F2",
-    border: "2px solid lightgray"
+    border: "2px solid lightgray",
   }
   var imgStyle = {
     zIndex: "1",
@@ -31,7 +31,7 @@ function Name() {
   }
   var bodyStyle = {
     border: "2px solid lightgray",
-    width: "242px"
+    width: "242px",
   }
   return (
     <div style={bodyStyle}>

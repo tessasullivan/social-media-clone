@@ -4,7 +4,8 @@ function SearchBar(){
   var search = {
     display: "flex",
     justifyContent: "flex-end",
-    marginTop: "-15px",
+    marginTop: "-20px",
+    paddingBottom: "5px"
   }
   var button = {
     borderRadius: "25px",

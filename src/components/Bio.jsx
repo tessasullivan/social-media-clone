@@ -3,7 +3,7 @@ import React from 'react';
 function Bio() {
   var bioStyle = {
     height: "300px",
-    width: "225px",
+    width: "222px",
     border: "2px solid lightgray",
     padding: "10px",
     marginTop: "20px"

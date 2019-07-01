@@ -1,12 +1,12 @@
 import React from "react";
-import NavBar from './NavBar';
-import SearchBar from './SearchBar';
+import Header from "./Header";
+import Body from "./Body";
 
 function App(){
   return (
     <div>
-      <NavBar/>
-      <SearchBar/>
+      <Header/>
+      <Body/>
     </div>
   );
 }
